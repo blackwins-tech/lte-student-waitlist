@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700&family=Poppins:wght@400;600;700;800&family=Roboto:wght@400;700&display=swap');
+.lte-title {
+    background-color: #1D3FAA !important;
+}
+
+.lte-logo {
+    width: 45px;
+    height: 45px;
+}
+
+.lte-logo-title {
+    margin-left: 10px;
+    color: #FFF;
+    font-size: 1.5rem;
+    font-weight: 200;
+    font-family: "nunito sans";
+}

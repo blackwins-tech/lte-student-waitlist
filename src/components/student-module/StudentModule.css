@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700&family=Poppins:wght@400;600;700;800&family=Roboto:wght@400;700&display=swap');
+.student-title {
+    font-size: 2rem;
+    font-family: "nunito sans";
+    font-weight: 200;
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+
+.student-form {
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.student-submit {
+    text-transform: uppercase;
+    background-color: #1D3FAA;
+    width: 150px;
+    padding: 10px 0px;
+    outline: none;
+}
+
+.student-submit:hover {
+    background-color: #1D3FAA;
+}
